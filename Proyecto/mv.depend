@@ -1,0 +1,979 @@
+# depslib dependency file v1.0
+1554697378 source:e:\programming stuff\maquina de armado\mv 3-4-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1553561370 e:\programming stuff\maquina de armado\mv 3-4-19\apodos.h
+
+1554697356 e:\programming stuff\maquina de armado\mv 3-4-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 e:\programming stuff\maquina de armado\mv 3-4-19\instrucciones.h
+
+1554702653 source:e:\programming stuff\maquina de armado\mv 3-4-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1553817127 source:e:\programming stuff\maquina de armado\mv 3-4-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554703091 source:e:\programming stuff\maquina de armado\mv 3-4-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1554694840 source:e:\programming stuff\maquina de armado\mv 3-4-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920751 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1553561370 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\apodos.h
+
+1554920758 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\instrucciones.h
+
+1554919825 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920770 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1553817127 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554920642 source:e:\programming stuff\maquina de armado\mv 8-4-19 mediodia\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1555454508 source:e:\programming stuff\maquina de armado\maquina 16-4-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1554323514 e:\programming stuff\maquina de armado\maquina 16-4-19\instrucciones.h
+
+1555457330 e:\programming stuff\maquina de armado\maquina 16-4-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1555457096 e:\programming stuff\maquina de armado\maquina 16-4-19\apodos.h
+
+1555457408 source:e:\programming stuff\maquina de armado\maquina 16-4-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1555454546 source:e:\programming stuff\maquina de armado\maquina 16-4-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1555459346 source:e:\programming stuff\maquina de armado\maquina 16-4-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1555454495 source:e:\programming stuff\maquina de armado\maquina 16-4-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1555454495 source:c:\users\user\desktop\maquina virtual 21019\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1555457096 c:\users\user\desktop\maquina virtual 21019\apodos.h
+
+1555457330 c:\users\user\desktop\maquina virtual 21019\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 c:\users\user\desktop\maquina virtual 21019\instrucciones.h
+
+1555460749 source:c:\users\user\desktop\maquina virtual 21019\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1555454546 source:c:\users\user\desktop\maquina virtual 21019\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1555534996 source:c:\users\user\desktop\maquina virtual 21019\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1555534571 source:c:\users\user\desktop\maquina virtual 21019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1555454495 source:e:\programming stuff\maquina de armado\mv 5-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1555457096 e:\programming stuff\maquina de armado\mv 5-5-19\apodos.h
+
+1557105386 e:\programming stuff\maquina de armado\mv 5-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 e:\programming stuff\maquina de armado\mv 5-5-19\instrucciones.h
+
+1557104337 source:e:\programming stuff\maquina de armado\mv 5-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557105325 source:e:\programming stuff\maquina de armado\mv 5-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1557102272 source:e:\programming stuff\maquina de armado\mv 5-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557104222 source:e:\programming stuff\maquina de armado\mv 5-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1555454495 source:d:\usuario\usuario\desktop\mv 5-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 d:\usuario\usuario\desktop\mv 5-5-19\apodos.h
+
+1557105386 d:\usuario\usuario\desktop\mv 5-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1554323514 d:\usuario\usuario\desktop\mv 5-5-19\instrucciones.h
+
+1557102272 source:d:\usuario\usuario\desktop\mv 5-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557104337 source:d:\usuario\usuario\desktop\mv 5-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557105447 source:d:\usuario\usuario\desktop\mv 5-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1555454495 source:c:\users\usuario\desktop\mv 8-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 c:\users\usuario\desktop\mv 8-5-19\apodos.h
+
+1557105386 c:\users\usuario\desktop\mv 8-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 c:\users\usuario\desktop\mv 8-5-19\instrucciones.h
+
+1557351522 source:c:\users\usuario\desktop\mv 8-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557105447 source:c:\users\usuario\desktop\mv 8-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1557353745 source:c:\users\usuario\desktop\mv 8-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1557353838 source:c:\users\usuario\desktop\mv 8-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1555454495 source:e:\programming stuff\maquina de armado\mv 8-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 8-5-19\apodos.h
+
+1557105386 e:\programming stuff\maquina de armado\mv 8-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 8-5-19\instrucciones.h
+
+1557105447 source:e:\programming stuff\maquina de armado\mv 8-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1557531973 source:e:\programming stuff\maquina de armado\mv 8-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1557530897 source:e:\programming stuff\maquina de armado\mv 8-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557530721 source:e:\programming stuff\maquina de armado\mv 8-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 13-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 13-5-19\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 13-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 13-5-19\instrucciones.h
+
+1557799557 source:e:\programming stuff\maquina de armado\mv 13-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557798502 source:e:\programming stuff\maquina de armado\mv 13-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1557800036 source:e:\programming stuff\maquina de armado\mv 13-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1557888615 source:e:\programming stuff\maquina de armado\mv 13-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557797111 source:c:\users\usuario\desktop\mv 14-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 c:\users\usuario\desktop\mv 14-5-19\apodos.h
+
+1557798673 c:\users\usuario\desktop\mv 14-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 c:\users\usuario\desktop\mv 14-5-19\instrucciones.h
+
+1557950651 source:c:\users\usuario\desktop\mv 14-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557798502 source:c:\users\usuario\desktop\mv 14-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1557953448 source:c:\users\usuario\desktop\mv 14-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1557957476 source:c:\users\usuario\desktop\mv 14-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 15-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 15-5-19\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 15-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 15-5-19\instrucciones.h
+
+1557798502 source:e:\programming stuff\maquina de armado\mv 15-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558043696 source:e:\programming stuff\maquina de armado\mv 15-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558042441 source:e:\programming stuff\maquina de armado\mv 15-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558044275 source:e:\programming stuff\maquina de armado\mv 15-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557797111 source:c:\users\fer\desktop\mv 15-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 c:\users\fer\desktop\mv 15-5-19\apodos.h
+
+1557798673 c:\users\fer\desktop\mv 15-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 c:\users\fer\desktop\mv 15-5-19\instrucciones.h
+
+1558052714 source:c:\users\fer\desktop\mv 15-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557798502 source:c:\users\fer\desktop\mv 15-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558055046 source:c:\users\fer\desktop\mv 15-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558055365 source:c:\users\fer\desktop\mv 15-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 16-5-19\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 16-5-19\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 16-5-19\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 16-5-19\instrucciones.h
+
+1558116720 source:e:\programming stuff\maquina de armado\mv 16-5-19\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558119018 source:e:\programming stuff\maquina de armado\mv 16-5-19\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558118832 source:e:\programming stuff\maquina de armado\mv 16-5-19\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558120744 source:e:\programming stuff\maquina de armado\mv 16-5-19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\instrucciones.h
+
+1558206818 source:e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558118832 source:e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558205763 source:e:\programming stuff\maquina de armado\mv 17-5-19 yacasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\instrucciones.h
+
+1558216801 source:e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211038 source:e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558214227 source:e:\programming stuff\maquina de armado\mv 18-5-19 yacasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1557797111 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\apodos.h
+
+1557798673 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\instrucciones.h
+
+1558232247 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558228421 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211038 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558296663 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\apodos.h
+
+1558296047 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\instrucciones.h
+
+1558298720 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558297315 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211038 source:e:\programming stuff\maquina de armado\mv 18-5-19 cons strlength y jnn\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558296663 source:e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\apodos.h
+
+1558296047 e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\instrucciones.h
+
+1558302596 source:e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558299297 source:e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211038 source:e:\programming stuff\maquina de armado\mv 18-5-19 mas andando q nunca\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558303113 source:e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341570 e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\apodos.h
+
+1558303119 e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352176 e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\instrucciones.h
+
+1558206315 source:e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211038 source:e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558302675 source:e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558303099 source:e:\programming stuff\maquina de armado\mv 19-5-19 mas andando q nunca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558303114 source:e:\maquina virtual lima-navarro\proyecto\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341572 e:\maquina virtual lima-navarro\proyecto\apodos.h
+
+1558304580 e:\maquina virtual lima-navarro\proyecto\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352178 e:\maquina virtual lima-navarro\proyecto\instrucciones.h
+
+1558211040 source:e:\maquina virtual lima-navarro\proyecto\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558389758 source:e:\maquina virtual lima-navarro\proyecto\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558304564 source:e:\maquina virtual lima-navarro\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558304576 source:e:\maquina virtual lima-navarro\proyecto\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558392566 source:d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1557352178 d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\instrucciones.h
+
+1558389922 d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557341572 d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\apodos.h
+
+1558389898 source:d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1558390806 source:d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558211040 source:d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
+1558392234 source:d:\usuario\usuario\desktop\maquina virtual lima-navarro\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558462379 source:e:\programming stuff\maquina de armado\mv reparaciones\proyecto\abrearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"apodos.h"
+	"funciones.h"
+	"instrucciones.h"
+	<math.h>
+
+1557341572 e:\programming stuff\maquina de armado\mv reparaciones\proyecto\apodos.h
+
+1558462385 e:\programming stuff\maquina de armado\mv reparaciones\proyecto\funciones.h
+	<string.h>
+	<stdio.h>
+
+1557352178 e:\programming stuff\maquina de armado\mv reparaciones\proyecto\instrucciones.h
+
+1558392566 source:e:\programming stuff\maquina de armado\mv reparaciones\proyecto\instrucciones.c
+	"instrucciones.h"
+	<stdlib.h>
+	"funciones.h"
+	"apodos.h"
+
+1558462148 source:e:\programming stuff\maquina de armado\mv reparaciones\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"instrucciones.h"
+
+1558461653 source:e:\programming stuff\maquina de armado\mv reparaciones\proyecto\rotuladora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+	"apodos.h"
+
+1558461820 source:e:\programming stuff\maquina de armado\mv reparaciones\proyecto\traductora.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"funciones.h"
+	"apodos.h"
+
